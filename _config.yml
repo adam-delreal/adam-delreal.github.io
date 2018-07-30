@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Adam Del Real"
-  avatar           : "images/IMG-1056.JPG" # path of avatar image, e.g. /assets/images/bio-photo.jpg
+  avatar           : "/images/IMG-1056.JPG" # path of avatar image, e.g. /assets/images/bio-photo.jpg
   bio              : "Data Scientist"
   location         : "Los Angeles, Ca."
   email            : "adam.delreal1@gmail.com"
